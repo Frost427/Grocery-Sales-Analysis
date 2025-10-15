@@ -13,7 +13,7 @@ This report provides an analytical overview of Blinkit grocery sales performance
 <img width="1314" height="734" alt="Screenshot 2025-10-15 151940" src="https://github.com/user-attachments/assets/de124a81-f70a-4374-acaa-4ffa907b9240" />
 
 ### Data Source
-Sales Data: The primary dataset used for this analysis is the “BlinkIT Grocery Data1.csv” file, containing detailed information about each sale made by the pizza company.
+Sales Data: The primary dataset used for this analysis is the “BlinkIT Grocery Data2.csv” file, containing detailed information about each sale made by the pizza company.
 
 ### Tools	
 -	SQL Server
